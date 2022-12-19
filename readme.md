@@ -1,4 +1,11 @@
-#Craigslist 2.0
+A group assignment at Medieinstitutet carried out in October 2022 in collaboration with Leon Björklund. The brief was to chose a website with an outdated or unresponsive design and modernise it. The focus of the task being responsive web design.
+
+Demo link:
+https://nathanaelblackbourn.github.io/craigslist2.0/
+
+Following is the readme text which we submitted with our work.
+
+# Craigslist 2.0
 
 Vi har valt att modernisera craigslist (https://stockholm.craigslist.org), front-page och sidan där annonser listas. Vi valde den eftersom vi tycker den har en åldrad design och saknar responsivitet.
 
@@ -29,12 +36,12 @@ PLAN:
 
 Uppdelning av front-page: 
 
-Leon tar <main>
-Nath tar <sidebar> & <header>, <footer>
+Leon tar `<main>`
+Nath tar `<sidebar>` & `<header>`, `<footer>`
 
 Uppdelning av annonslisting-page:
 
-Leon tar .list-block
+Leon tar `.list-block`
 Nath tar resten
 
 Media breakpoints: 
